@@ -17,9 +17,9 @@ import java.util.List;
 
 public class ContactFragment extends Fragment {
     List<ContactItem> contacts = new ArrayList<>();
-    ContactItem nnsp = new ContactItem("N N S Praneeth", "7240369333");
-    ContactItem askc = new ContactItem("A S K Chaitanya", "9985365073");
-    ContactItem nit = new ContactItem("Y Nitheesh", "7240349555");
+    ContactItem nnsp = new ContactItem("N N S Praneeth", "7240XXXXXX");
+    ContactItem askc = new ContactItem("A S K Chaitanya", "9985XXXXXX");
+    ContactItem nit = new ContactItem("Y Nitheesh", "7240XXXXXX");
 
 
     @Override
